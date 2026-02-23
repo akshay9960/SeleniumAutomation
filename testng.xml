@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<suite name="Suite" >
+  <listeners>
+    <listener class-name="SeleniumFrameworkDesign.Listnerss.Listners"/>
+</listeners>
+  <test name="Test1">
+    <classes>
+      <class name="SeleniumFrameworkDesign.Test.Testapp">
+  
+      </class>
+    </classes>
+  </test>
+
+
+</suite>
